@@ -1,0 +1,244 @@
+Connect 4 Game
+
+here is Ref. about how to document your project properly:
+
+			 ___________________________________________________________
+			/                                                           \
+			\___________________________________________________________/
+
+
+A beginner’s guide to writing documentation
+* https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
+
+	related to:
+				Welcome to fabrics documentation
+				* http://docs.fabfile.org/en/2.5/
+				
+				Requests: HTTP for Humans
+				* https://requests.kennethreitz.org/en/master/
+				
+				The Hitchhiker’s Guide to Python!
+				* https://docs.python-guide.org/index.html
+				
+				django Documentation
+				* https://docs.djangoproject.com/en/1.8/faq/help/
+				
+				Installation
+				* https://read-the-docs.readthedocs.io/en/latest/install.html
+				
+				How I went from being a contributor to an Open Source project maintainer
+				* https://www.freecodecamp.org/news/how-i-went-from-being-a-contributor-to-an-open-source-project-maintainer-acd8a6b316f5/
+				
+				Markdown 1.0.1
+				* https://daringfireball.net/projects/markdown/
+				
+				SPHINX Python Documentation Generator
+				* http://www.sphinx-doc.org/en/master/#rst-primer
+				
+			 ___________________________________________________________
+			/                                                           \
+			\___________________________________________________________/
+
+
+Readme Driven Development
+* http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
+	
+	related to:
+				* https://news.ycombinator.com/item?id=1627246 
+				
+			 ___________________________________________________________
+			/                                                           \
+			\___________________________________________________________/
+
+PurpleBooth/README-Template.md
+* https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+			 ___________________________________________________________
+			/                                                           \
+			\___________________________________________________________/
+
+Awesome README Examples:
+* https://github.com/matiassingers/awesome-readme
+			 ___________________________________________________________
+			/                                                           \
+			\___________________________________________________________/
+
+
+10 Tools for the Perfect Code Documentation
+* https://blog.education-ecosystem.com/code-documentation-tools/
+ 			 ___________________________________________________________
+			/                                                           \
+			\___________________________________________________________/
+
+
+Software documentation
+* https://en.wikipedia.org/wiki/Software_documentation
+
+ 			 ___________________________________________________________
+			/                                                           \
+			\___________________________________________________________/
+
+Writing technical documentation
+* https://www.youtube.com/watch?v=a4L9GhldTHo
+
+	retlated to:
+				Awesome-Selfhosted Application
+				* https://github.com/Kickball/awesome-selfhosted
+				
+				bookstack
+				* https://www.bookstackapp.com/
+				
+				BookStack GitHub
+				* https://github.com/BookStackApp/BookStack
+				
+ 			 ___________________________________________________________
+			/                                                           \
+			\___________________________________________________________/
+
+How to Write a Good Documentation: Home
+* https://guides.lib.berkeley.edu/how-to-write-good-documentation
+ 			 ___________________________________________________________
+			/                                                           \
+			\___________________________________________________________/
+
+
+Doxygen: Documenting the code
+* http://www.doxygen.nl/manual/docblocks.html
+			 ___________________________________________________________
+			/                                                           \
+			\___________________________________________________________/
+
+Natural Docs: Documenting Your Code
+* https://www.naturaldocs.org/getting_started/documenting_your_code/#the_basics
+			 ___________________________________________________________
+			/                                                           \
+			\___________________________________________________________/
+
+The Markdown Guide Matte Cone
+* https://www.markdownguide.org/assets/book/markdown-guide.pdf
+			 ___________________________________________________________
+			/                                                           \
+			\___________________________________________________________/
+
+Online Markdown Editor
+* https://dillinger.io/
+			 ___________________________________________________________
+			/                                                           \
+			\___________________________________________________________/
+
+About Code Documentation Ques.
+
+In software development, is it generally preferable to write self-documenting code, or to use comments as well?
+* https://www.quora.com/In-software-development-is-it-generally-preferable-to-write-self-documenting-code-or-to-use-comments-as-well?top_ans=130940942
+
+As a software engineer/ programmer what is the most well documented code you've seen?
+* https://www.quora.com/As-a-software-engineer-programmer-what-is-the-most-well-documented-code-youve-seen
+
+A tutorial on creating coding tutorials
+* https://blog.logrocket.com/a-tutorial-on-creating-front-end-tutorials-2b13d8e94df9/
+
+			 ___________________________________________________________
+			/                                                           \
+			\___________________________________________________________/
+
+
+
+Getting Started With GitHub
+* https://www.youtube.com/watch?v=XBzUqQbHHhw&list=PLylMDDjFIp1CIkQbbOg4hFiLm15WCLQE2				
+
+GitHub Issues:
+
+
+Changing a remote's URL
+
+* https://help.github.com/en/articles/changing-a-remotes-url#switching-remote-urls-from-https-to-ssh
+
+
+Creating a personal access token for the command line
+
+* https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line
+
+
+Git push results in “Authentication Failed”
+
+* https://stackoverflow.com/questions/17659206/git-push-results-in-authentication-failed
+
+
+Git Bash: Could not open a connection to your authentication agent [duplicate]
+
+* https://stackoverflow.com/questions/24154816/git-bash-could-not-open-a-connection-to-your-authentication-agent/33697306
+
+
+About SSH
+
+* https://help.github.com/en/articles/about-ssh
+
+
+Adding a new SSH key to your GitHub account
+
+* https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account
+
+
+Generating a new SSH key and adding it to the ssh-agent
+
+* https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
+Changing a remote's URL
+
+* https://help.github.com/en/articles/changing-a-remotes-url#switching-remote-urls-from-https-to-ssh
+
+
+Rewriting history
+
+Git commit --amend and other methods of rewriting history
+
+* https://www.atlassian.com/git/tutorials/rewriting-history
+
+SourceGear DiffMerge
+
+* https://sourcegear.com/diffmerge/webhelp/sec__git__windows__msysgit.html
+
+
+Prob & Sol
+
+How do I start Notepad++ from cmd?
+
+* https://superuser.com/questions/607379/how-do-i-start-notepad-from-cmd
+
+What are PATH and other environment variables, and how can I set or use them?
+
+* https://superuser.com/questions/284342/what-are-path-and-other-environment-variables-and-how-can-i-set-or-use-them
+
+Add Or Remove Any Folder To PATH Variable Using Windows Context Menu
+
+* https://www.addictivetips.com/windows-tips/add-remove-any-folder-to-path-variable-using-context-menu/
+
+Add “Add to Path” to context menu
+
+* https://www.itechtics.com/add-to-path-context-menu/
+
+How to exit git log or git diff [duplicate]
+
+* https://stackoverflow.com/questions/9483757/how-to-exit-git-log-or-git-diff
+
+git cherry-pick not working
+
+* https://stackoverflow.com/questions/7072013/git-cherry-pick-not-working
+
+What does this Command do “ git checkout — . ”
+
+* https://stackoverflow.com/questions/58463630/what-does-this-command-do-git-checkout?noredirect=1#comment103263536_58463630
+
+	related to:
+	
+				How do I discard unstaged changes in Git?
+				
+				* https://stackoverflow.com/questions/52704/how-do-i-discard-unstaged-changes-in-git/52713#52713
+				
+				dot sign's meaning in git checkout command
+				
+				* https://stackoverflow.com/questions/8275452/dot-signs-meaning-in-git-checkout-command
+				
+				Git 2.23 Adds Switch and Restore Commands
+				
+				* https://www.infoq.com/news/2019/08/git-2-23-switch-restore/

@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Ahmed\\CPP\\Git_one"
+		},
+		{
+			"path": "C:\\Ahmed\\CPP\\Magic Square"
+		},
+		{
+			"path": "C:\\Ahmed\\CPP\\MarkDownLearn"
+		},
+		{
+			"path": "C:\\Ahmed\\CPP\\ACP_CPP_Course_2"
+		},
+		{
+			"path": "C:\\Ahmed\\CPP\\Faculty_Project"
+		},
+		{
+			"path": "C:\\Ahmed\\CPP\\Draft"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"chrono": "cpp",
+			"iostream": "cpp",
+			"iomanip": "cpp",
+			"*.tcc": "cpp",
+			"random": "cpp",
+			"algorithm": "cpp",
+			"tuple": "cpp",
+			"new": "cpp",
+			"iosfwd": "cpp",
+			"initializer_list": "cpp",
+			"fstream": "cpp"
+		}
+	}
+}
