@@ -29,8 +29,7 @@
 <img src="FlowChart/Connect4GameFlowchart_1.jpg" align="center"/>
 <br/>
 
-<img style="max-width: 99%" src="FlowChart/
-Connect4GameFlowchart_2.jpg" align="center"/>
+<img src="FlowChart/Connect4GameFlowchart_2.jpg" align="center"/>
 <br/>
 
 <img src="FlowChart/Connect4GameFlowchart_3.jpg" align="center"/>
