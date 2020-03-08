@@ -1,5 +1,4 @@
-# Connect4Game ACP Course  
-(uncompleted Tutorial)
+# Connect4Game ACP Course (uncompleted Tutorial)
 
 <img src="./doc/Logos/Logo.jpg" width=100% hight="100" />
 
