@@ -28,14 +28,14 @@
 
 ## Description  
 
-<img src="FlowChart/Connect4GameFlowchart_1.jpg" align="center"/>
+<img src="doc/FlowChart/Connect4GameFlowchart_1.jpg" align="center"/>
 <br/>
 
-<img src="FlowChart/
+<img src="doc/FlowChart/
 Connect4GameFlowchart_2.jpg" align="center"/>
 <br/>
 
-<img src="FlowChart/Connect4GameFlowchart_3.jpg" align="center"/>
+<img src="doc/FlowChart/Connect4GameFlowchart_3.jpg" align="center"/>
 
 ## Headers
 
